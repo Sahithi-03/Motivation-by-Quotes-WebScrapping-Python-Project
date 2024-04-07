@@ -1,5 +1,4 @@
 # Motivation by Quotes
-#### Video Demo:  <URL https://www.youtube.com/watch?v=ZLAaLghzE4o>
 #### Description:
 This project aims to provide **Motivational Quotes** the user's choice. It provides four options which are *'Inspiration', 'Love', 'Life', 'Friends', and 'Random'*. Each choice has its function.
 
