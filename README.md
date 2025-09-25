@@ -1,8 +1,7 @@
 # Motivation by Quotes
-
-Video overview: https://youtu.be/ZLAaLghzE4o
-
-This Project was submitted and got accepted for the Final Project for CS50: Introduction to Programming with Python course.
+ This Project was submitted and got accepted for the Final Project for CS50: Introduction to Programming with Python course.
+ 
+[Video overview](https://youtu.be/ZLAaLghzE4o)
 
 #### Description:
 This project aims to provide **Motivational Quotes** the user's choice. It provides four options which are *'Inspiration', 'Love', 'Life', 'Friends', and 'Random'*. Each choice has its function.
